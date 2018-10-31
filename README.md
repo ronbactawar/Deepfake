@@ -8,7 +8,7 @@ Inside the obamanet folder choose an audio (ie. sagan.wav)
 
 	run: python run.py --sf data/audios/sagan.wav
 
-	This accepts an audio (ie. sagan.wav) from processing and outputs a folder called testing_output_images
+	This accepts an audio (ie. sagan.wav) for processing and outputs a folder called testing_output_images
 
 
 
