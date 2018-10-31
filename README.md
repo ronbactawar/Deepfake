@@ -1,7 +1,8 @@
 # Deepfake
 
+Abstract: This repository attempts to reproduce the results of “Synthesizing Obama: Learning Lip Sync from Audio” by Suwajanakorn et al. and others  
 
-INSTRUCTIONS:
+INSTRUCTION:
 
 Inside the Obamanet folder choose an audio (ie. sagan.wav)
 
@@ -46,3 +47,9 @@ To train a set of images in a directory (ie. c_train) :
 	training: Requires mouth (drawing) and mouth (real) side by side
 
 	run:  python3 pix2pix.py --mode train --output_dir output --max_epochs 1 --input_dir c_train --which_direction AtoB
+
+References 
+
+Suwajanakorn, S., Seitz, S. M., & Kemelmacher-Shlizerman, I. (2017). Synthesizing Obama. ACM Transactions on Graphics, 36(4), 1-13. doi:10.1145/3072959.3073640 
+
+ Bhargava Karan, ObamaNet : Lip Sync from Audio, (2017), GitHub repository, https://github.com/karanvivekbhargava/obamanet
