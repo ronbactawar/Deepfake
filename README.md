@@ -16,7 +16,7 @@ Inside the Obamanet folder:
 
 	run: python3 pix2pix.py --mode test --output_dir test_output/ --input_dir testing_output_images/ --checkpoint 	checkpoints/output/
 
-	This productes a folder called /test_output/images that contains images of 1) Drawn in mouth representation and 2) The real 	mouth representation (outputs)
+	This productes a folder called /test_output/images that contains images of 1) Drawn in mouth representation and 2) The real mouth representation (outputs)
 
 
 
