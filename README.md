@@ -4,7 +4,7 @@ Abstract: This repository attempts to reproduce the results of “Synthesizing O
 
 INSTRUCTION:
 
-Inside the Obamanet folder choose an audio (ie. sagan.wav)
+Inside the obamanet folder choose an audio (ie. sagan.wav)
 
 	run: python run.py --sf data/audios/sagan.wav
 
@@ -13,7 +13,7 @@ Inside the Obamanet folder choose an audio (ie. sagan.wav)
 
 
 
-Inside the Obamanet folder:
+Inside the obamanet folder:
 
 	run: python3 pix2pix.py --mode test --output_dir test_output/ --input_dir testing_output_images/ --checkpoint 	checkpoints/output/
 
