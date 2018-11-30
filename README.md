@@ -1,7 +1,8 @@
-# Deepfake (ObamaNet)
+# Deepfake 
 
 Abstract: This repository attempts to reproduce the results of (1) Obama net project and (2) Face2Face project
-INSTRUCTION:
+
+INSTRUCTION: (ObamaNet)
 
 Inside the obamanet folder choose an audio (ie. sagan.wav)
 
