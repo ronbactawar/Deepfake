@@ -1,7 +1,6 @@
 # Deepfake (ObamaNet)
 
-Abstract: This repository attempts to reproduce the results of “Synthesizing Obama: Learning Lip Sync from Audio” by Suwajanakorn et al. and others  
-
+Abstract: This repository attempts to reproduce the results of (1) Obama net project and (2) Face2Face project
 INSTRUCTION:
 
 Inside the obamanet folder choose an audio (ie. sagan.wav)
