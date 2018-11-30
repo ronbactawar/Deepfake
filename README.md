@@ -60,7 +60,7 @@ The original and landmark images are resized and then combined. The combined ima
 
 3.Reduced model
 
-The trained model is reduced to have a less file size. The reduced model is then freezed to a single file.
+The trained model is reduced to have a less file size. The reduced model is then freezed to a single file. It returns a frozen model file frozen_model.pb.
 
 4.Output
 
