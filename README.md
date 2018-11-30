@@ -1,4 +1,4 @@
-# Deepfake
+# Deepfake (ObamaNet)
 
 Abstract: This repository attempts to reproduce the results of “Synthesizing Obama: Learning Lip Sync from Audio” by Suwajanakorn et al. and others  
 
