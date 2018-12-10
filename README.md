@@ -4,6 +4,14 @@ Abstract: This repository attempts to reproduce the results of (1) ObamaNet proj
 
 OBAMANET (INSTRUCTIONS)
 
+Download the obamanet folder
+
+	Extract the contents of the supplement folder into the obamanet folder
+
+	Link to obamanet folder: https://drive.google.com/open?id=1824s4K-cmhkYTPBDUSlCoVgSJbIl4c-e
+
+	Link to supplement: https://drive.google.com/open?id=1gAYaqg1rcGuMjfc-at-7a86wbTApwjD9
+
 Inside the obamanet folder choose an audio (ie. sagan.wav)
 
 	run: python run.py --sf data/audios/sagan.wav
