@@ -2,6 +2,11 @@
 
 Abstract: This repository attempts to reproduce the results of (1) ObamaNet project and (2) Face2Face project
 
+OBAMANET (OBJECTIVE)
+
+The objective of ObamaNet is to simulate speaking dynamics (on Obama) using an audio voice.  An LSTM network is used to convert audio signals into facial keypoints which are then used by Pix2Pix to render predicted images of Obama.  Images are then combined into a video with the audio to demonstrate Obama speaking.    
+
+
 OBAMANET (INSTRUCTIONS)
 
 Download the obamanet folder
